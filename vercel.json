@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "hali-chati-inwv865eq-dinobarton-protonmailc.vercel.app",
+    "name": "https://hali-chati.vercel.app",
     "builds": [
       { "src": "app.js", "use": "@vercel/node" }
     ],
